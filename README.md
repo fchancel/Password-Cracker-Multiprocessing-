@@ -84,7 +84,7 @@ Each character of the first four characters of the word to be tested is managed 
 For the following characters, the available character lists are divided by the number of processors requested by the user. Each processor will try to find the password in its available character portion. (example: processor 1 will try from 'aaaaa' to 'faaaa', processor 2 will try to: 'faaaaa' to 'maaaaa', etc...)
 
 ## DEMO
-![](https://gitlab.com/krotarox/python-password-breaker/-/raw/master/gif/demo.gif)
+![](https://raw.githubusercontent.com/fchancel/Password-Cracker-Multiprocessing-/master/gif/demo.gif)
 
 ## Warning
 
